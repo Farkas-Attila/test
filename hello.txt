@@ -2,4 +2,4 @@ hello world
 asdf
 ez a hibás rész
 ijkl
-issue 53 és annak részleges megoldása
+issue 53 megoldása
