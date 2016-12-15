@@ -1,6 +1,1 @@
-hello world
-asdf
-kijavítva a hibás rész
-ijkl
-issue 53 megoldása
-
+A fejlesztõ módosította
